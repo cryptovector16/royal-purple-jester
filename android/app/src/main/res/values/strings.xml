@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Royal Purple Jester</string>
+
+    <string name="splash_title">ROYAL PURPLE JESTER</string>
+    <string name="splash_subtitle">THE COURT AWAITS A VERDICT</string>
+    <string name="loading">LOADING</string>
+
+    <string name="menu_title">ROYAL PURPLE JESTER</string>
+    <string name="menu_tagline">FOUR MASKS · ONE TRUE HEIR</string>
+    <string name="menu_hint">READ THE TESTIMONY. CATCH THE LIE.</string>
+    <string name="menu_footer">MATURE COURT INTRIGUE · 18+ · NO REAL MONEY</string>
+    <string name="play">PLAY</string>
+    <string name="case_select">CASE SELECT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu">MENU</string>
+    <string name="open">OPEN</string>
+    <string name="locked">LOCKED</string>
+
+    <string name="seals_fmt">SEALS %1$d/%2$d</string>
+    <string name="stat_cases_closed">CASES CLOSED</string>
+    <string name="stat_best_insight">BEST INSIGHT</string>
+    <string name="stat_insight">INSIGHT</string>
+    <string name="stat_contradictions">CONTRADICTIONS</string>
+    <string name="stat_questions_left">QUESTIONS LEFT</string>
+
+    <string name="case_select_title">CHAPTER CASES</string>
+    <string name="chapter_meta_fmt">%1$d CLAIMANTS · %2$d STATEMENTS EACH</string>
+    <string name="ending_fmt">ENDING: %1$s</string>
+    <string name="ending_none">NOT YET WRITTEN</string>
+    <string name="chapter_numeral_fmt">%1$d</string>
+
+    <string name="chapter_1">THE SILENT GALLERY</string>
+    <string name="chapter_2">A DEBT IN VELVET</string>
+    <string name="chapter_3">THE SECOND SIGNET</string>
+    <string name="chapter_4">WHAT THE CANDLE SAW</string>
+    <string name="chapter_5">THE COUNCIL DIVIDED</string>
+    <string name="chapter_6">CROWN OF MASKS</string>
+
+    <string name="ending_crown_restored">CROWN RESTORED</string>
+    <string name="ending_quiet_coronation">A QUIET CORONATION</string>
+    <string name="ending_jester_laughs">THE JESTER LAUGHS</string>
+    <string name="ending_court_in_shadow">THE COURT IN SHADOW</string>
+
+    <string name="epilogue_crown_restored">The council rises as one and the gold seal falls. By morning the gallery is swept, the masks are burned, and the court remembers nothing but a quiet, certain voice.</string>
+    <string name="epilogue_quiet_coronation">The crown changes hands without music. Half the chamber still doubts, and the doubt will outlive the candles, but the right heir keeps the signet.</string>
+    <string name="epilogue_jester_laughs">Somewhere behind the drapes a bell of small brass bells shakes. You named a liar and the liar bowed. The true heir says nothing at all.</string>
+    <string name="epilogue_court_in_shadow">No contradiction was ever sealed. The council votes in the dark, the wrong hand takes the signet, and the gallery stays silent for a very long year.</string>
+
+    <string name="questions_fmt">QUESTIONS %1$d/%2$d</string>
+    <string name="contradictions_fmt">CONTRADICTIONS %1$d</string>
+    <string name="favour_fmt">%1$d/%2$d</string>
+    <string name="favour_label">COUNCIL FAVOUR</string>
+    <string name="pane_evidence">EVIDENCE BOARD</string>
+    <string name="pane_ties">COURT TIES</string>
+    <string name="game_hint">TAP A MASK TO MARK · TAP TWO NOTES TO CROSS-EXAMINE</string>
+    <string name="question">QUESTION</string>
+    <string name="unmask">UNMASK</string>
+    <string name="cross_examine">CROSS-EXAMINE</string>
+    <string name="name_the_heir">NAME THE HEIR</string>
+    <string name="board_empty">THE BOARD IS BARE · QUESTION A CLAIMANT</string>
+    <string name="ties_empty">NO TIES CONFIRMED YET</string>
+    <string name="no_contradiction">NO CONTRADICTION</string>
+    <string name="contradiction_sealed">CONTRADICTION SEALED</string>
+    <string name="favour_gained">COUNCIL FAVOUR RISES</string>
+    <string name="continue_inquiry">CONTINUE</string>
+    <string name="resume">RESUME</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="cancel">CANCEL</string>
+    <string name="pause_title">COUNCIL RECESS</string>
+    <string name="pause_body">The chamber waits. Step back in, or leave the case to the dark.</string>
+    <string name="vote_body">The council will record one name. Choose the claimant you believe holds the true line.</string>
+    <string name="mark_suspect">SUSPECT</string>
+    <string name="mark_cleared">CLEARED</string>
+    <string name="mark_none">UNMARKED</string>
+    <string name="motive_fmt">MOTIVE: %1$s</string>
+    <string name="state_disabled">DISABLED</string>
+    <string name="state_selected">SELECTED</string>
+
+    <string name="truth_fmt">THE TRUE HEIR WAS %1$s</string>
+    <string name="accused_fmt">YOU NAMED %1$s</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_case">NEXT CASE</string>
+
+    <string name="setting_inquiry_length">INQUIRY LENGTH</string>
+    <string name="setting_inquiry_desc">How many questions the council grants you in one case.</string>
+    <string name="length_short">SHORT 4</string>
+    <string name="length_court">COURT 6</string>
+    <string name="length_long">LONG 8</string>
+    <string name="setting_seal_hints">SEAL HINTS</string>
+    <string name="setting_seal_hints_desc">After three failed cross-examinations, notes that still hide a contradiction gain a candlelight edge.</string>
+    <string name="setting_steady">STEADY CANDLELIGHT</string>
+    <string name="setting_steady_desc">Stops every looping flicker, float and rotation and shortens entry motion.</string>
+    <string name="setting_auto_filter">AUTO-FILTER BOARD</string>
+    <string name="setting_auto_filter_desc">Marking a claimant narrows the evidence board to that claimant alone.</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="claimant_duchess">THE DUCHESS</string>
+    <string name="claimant_armourer">THE ARMOURER</string>
+    <string name="claimant_scribe">THE SCRIBE</string>
+    <string name="claimant_foundling">THE FOUNDLING</string>
+    <string name="claimant_chamberlain">THE CHAMBERLAIN</string>
+    <string name="claimant_envoy">THE ENVOY</string>
+    <string name="claimant_physician">THE PHYSICIAN</string>
+    <string name="claimant_revels">THE MASTER OF REVELS</string>
+
+    <string name="motive_1">A debt to the guild that the crown would erase</string>
+    <string name="motive_2">A brother buried without a name or a stone</string>
+    <string name="motive_3">The gallery key, promised and never given</string>
+    <string name="motive_4">A letter of blood sworn to a foreign house</string>
+    <string name="motive_5">The council seat that went to a younger hand</string>
+    <string name="motive_6">A forged line in the register of births</string>
+    <string name="motive_7">Three winters of silence bought with gold</string>
+    <string name="motive_8">A promise made to the old king on his last night</string>
+
+    <string name="topic_truth_1">The signet never left the vault before dawn.</string>
+    <string name="topic_lie_1">The signet lay on the council table at midnight.</string>
+    <string name="topic_truth_2">One candle burned in the gallery all night.</string>
+    <string name="topic_lie_2">The gallery stood in complete darkness all night.</string>
+    <string name="topic_truth_3">The debt to the guild was paid in full before the vote.</string>
+    <string name="topic_lie_3">The guild is still owed three hundred marks.</string>
+    <string name="topic_truth_4">The sealed letter was burned before the council sat.</string>
+    <string name="topic_lie_4">The sealed letter is still locked in the scriptorium.</string>
+    <string name="topic_truth_5">The east door was barred from the inside.</string>
+    <string name="topic_lie_5">The east door stood open the whole evening.</string>
+    <string name="topic_truth_6">The jester wore the burgundy mask at supper.</string>
+    <string name="topic_lie_6">The jester went unmasked through the whole supper.</string>
+    <string name="topic_truth_7">Every claimant swore the oath before the council.</string>
+    <string name="topic_lie_7">Two claimants refused to swear the oath.</string>
+    <string name="topic_truth_8">The ring of keys hung by the hearth all night.</string>
+    <string name="topic_lie_8">The ring of keys vanished before the bell.</string>
+
+    <string name="neutral_1">The hall was colder than any winter I remember.</string>
+    <string name="neutral_2">I counted the chairs twice and found them all filled.</string>
+    <string name="neutral_3">The wine was poured by a servant I did not know.</string>
+    <string name="neutral_4">No bell rang between the second hour and the third.</string>
+    <string name="neutral_5">The drapes were drawn against the river wind.</string>
+    <string name="neutral_6">I have served this house longer than most of you have lived.</string>
+    <string name="neutral_7">The council scribe wrote nothing down after midnight.</string>
+    <string name="neutral_8">There were four cups on the table and five seats.</string>
+
+    <string name="statement_exclusion_fmt">The true heir is not %1$s.</string>
+
+    <string name="tie_debtor">DEBTOR</string>
+    <string name="tie_rival">RIVAL</string>
+    <string name="tie_kin">KIN</string>
+    <string name="tie_patron">PATRON</string>
+
+    <string name="cd_logo">Royal Purple Jester crest</string>
+    <string name="cd_pause">Pause the inquiry</string>
+    <string name="cd_home">Return to the menu</string>
+    <string name="cd_back">Back to the menu</string>
+    <string name="cd_mask_fmt">Court mask of %1$s</string>
+    <string name="cd_seal">Crimson wax seal</string>
+    <string name="cd_scroll">Testimony scroll</string>
+    <string name="cd_locked">Locked chapter</string>
+    <string name="cd_question">Question the selected claimant</string>
+    <string name="cd_crown">Crown of the true line</string>
+</resources>
