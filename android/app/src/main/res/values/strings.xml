@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoyalPurpleJester</string>
+
+    <string name="splash_title">ROYAL PURPLE JESTER</string>
+    <string name="splash_subtitle">FIVE MASKS · ONE CROWN</string>
+    <string name="splash_loading">LOADING THE COURT</string>
+
+    <string name="menu_title">ROYAL PURPLE JESTER</string>
+    <string name="menu_tagline">FIVE MASKS · ONE CROWN</string>
+    <string name="menu_hint">HOW TO WIN: UNMASK THE TRUE HEIR BEFORE THE VOTE</string>
+    <string name="menu_no_record">THE COUNCIL HAS NO RECORD OF YOU</string>
+    <string name="menu_stat_solved">CASES SOLVED</string>
+    <string name="menu_stat_open">CHAPTERS UNSEALED</string>
+    <string name="menu_best_verdict">BEST VERDICT: %1$s</string>
+    <string name="menu_next_case">NEXT CASE: %1$s · %2$s</string>
+    <string name="disclaimer">18+ · FICTIONAL COURT INTRIGUE · NO REAL WAGERS</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_chapters">CHAPTER SELECT</string>
+    <string name="cta_rules">RULES</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_next_chapter">NEXT CHAPTER</string>
+    <string name="cta_deal">DEAL CLAIM</string>
+    <string name="cta_lock">LOCK PAIR</string>
+    <string name="cta_unmask">SEAL OF TRUTH</string>
+    <string name="cta_accuse">ACCUSE</string>
+    <string name="cta_name_heir">NAME THE HEIR</string>
+    <string name="cta_withdraw">WITHDRAW</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_close">CLOSE</string>
+    <string name="cta_burn_records">BURN RECORDS</string>
+    <string name="cta_keep_records">KEEP RECORDS</string>
+
+    <string name="chapters_title">THE COURT LEDGER</string>
+    <string name="chapters_hint">THE COUNCIL OPENS ONE DOOR AT A TIME</string>
+    <string name="chapter_masks">MASKS: %1$d</string>
+    <string name="chapter_numeral_1">I</string>
+    <string name="chapter_numeral_2">II</string>
+    <string name="chapter_numeral_3">III</string>
+    <string name="chapter_numeral_4">IV</string>
+    <string name="chapter_numeral_5">V</string>
+    <string name="chapter_numeral_6">VI</string>
+    <string name="chapter_name_1">THE VELVET ANTECHAMBER</string>
+    <string name="chapter_name_2">THE MASKED COUNCIL</string>
+    <string name="chapter_name_3">THE GILDED OWL</string>
+    <string name="chapter_name_4">THE OATH OF THE IRON STAG</string>
+    <string name="chapter_name_5">THE PALE LILY VIGIL</string>
+    <string name="chapter_name_6">THE CROWNING DOUBT</string>
+
+    <string name="game_chapter_banner">CHAPTER %1$s · %2$s</string>
+    <string name="game_tab_evidence">EVIDENCE</string>
+    <string name="game_tab_court">COURT</string>
+    <string name="game_hint_evidence">TAP A SEAL TO MARK A CLAIM TRUE OR FALSE</string>
+    <string name="game_hint_court">TAP A MASK TO OPEN A DOSSIER</string>
+    <string name="game_hint_vote">THE COUNCIL CALLS THE VOTE - ACCUSE NOW</string>
+    <string name="game_empty_board">THE COURT IS SILENT. SPEND A QUESTION TO BEGIN.</string>
+    <string name="game_stat_questions">QUESTIONS</string>
+    <string name="game_stat_patience">PATIENCE</string>
+    <string name="game_stat_insight">INSIGHT</string>
+    <string name="game_questions_value">%1$d / %2$d</string>
+    <string name="game_target">TARGET: NAME THE TRUE HEIR</string>
+    <string name="game_masks_known">MASKS AT THIS TABLE: %1$d</string>
+    <string name="game_questioning">QUESTIONING: %1$s</string>
+    <string name="game_select_none">SELECT A MASK IN THE COURT</string>
+    <string name="game_sealing">THE COUNCIL VOTES</string>
+
+    <string name="claim_is_heir">THE CROWN BELONGS TO %1$s.</string>
+    <string name="claim_not_heir">%1$s IS NO CHILD OF THE LATE KING.</string>
+    <string name="claim_masked">%1$s SPEAKS NOTHING BUT FALSEHOOD.</string>
+    <string name="claim_truthful">%1$s HAS NEVER LIED TO THIS COURT.</string>
+    <string name="claim_kin">%1$s AND %2$s SHARE BLOOD.</string>
+    <string name="claim_rival">%1$s WOULD SEE %2$s FALL.</string>
+    <string name="claim_motive">%1$s SERVES ONLY %2$s.</string>
+    <string name="claim_sealed_count">STILL SEALED: %1$d TESTIMONIES</string>
+    <string name="claim_tag_court">COURT RUMOUR · NOT LOCKABLE</string>
+
+    <string name="courtier_name_1">THE VELVET JESTER</string>
+    <string name="courtier_name_2">LADY VERRINE OF ASHFOLD</string>
+    <string name="courtier_name_3">DUKE CASTELLAN</string>
+    <string name="courtier_name_4">CHAMBERLAIN ORSIO</string>
+    <string name="courtier_name_5">SISTER MIRABEL</string>
+    <string name="mask_name_1">HARLEQUIN PURPLE</string>
+    <string name="mask_name_2">CRIMSON DOVE</string>
+    <string name="mask_name_3">IRON STAG</string>
+    <string name="mask_name_4">GILDED OWL</string>
+    <string name="mask_name_5">PALE LILY</string>
+    <string name="mask_label">MASK: %1$s</string>
+    <string name="spoken_label">CLAIMS: %1$d</string>
+
+    <string name="dossier_truthful">UNMASKED · SPEAKS ONLY TRUTH</string>
+    <string name="dossier_masked">UNMASKED · SPEAKS ONLY FALSEHOOD</string>
+    <string name="dossier_unknown">STILL MASKED · ROLE UNPROVEN</string>
+    <string name="dossier_motive">CLAIMED MOTIVE: %1$s</string>
+    <string name="motive_unknown">MOTIVE UNKNOWN</string>
+    <string name="motive_crown">THE CROWN</string>
+    <string name="motive_coin">THE COIN</string>
+    <string name="motive_vengeance">VENGEANCE</string>
+    <string name="motive_devotion">DEVOTION</string>
+    <string name="motive_fear">FEAR</string>
+    <string name="motive_badge_crown">C</string>
+    <string name="motive_badge_coin">O</string>
+    <string name="motive_badge_vengeance">V</string>
+    <string name="motive_badge_devotion">D</string>
+    <string name="motive_badge_fear">F</string>
+
+    <string name="ending_true_crown">THE TRUE CROWN</string>
+    <string name="ending_quiet_coronation">A QUIET CORONATION</string>
+    <string name="ending_doubted_heir">THE DOUBTED HEIR</string>
+    <string name="ending_silent_council">THE SILENT COUNCIL</string>
+    <string name="ending_usurper_crowned">THE USURPER CROWNED</string>
+    <string name="ending_story_true_crown">THE COUNCIL RISES AS ONE AND THE CANDLES ARE SNUFFED IN SALUTE. YOUR PROOF WAS CLEAN ENOUGH THAT NOT A SINGLE MASK DARED SPEAK AGAINST IT.</string>
+    <string name="ending_story_quiet_coronation">THE CROWN CHANGES HANDS BEFORE DAWN, WITHOUT TRUMPETS. HALF THE CHAMBER STILL WHISPERS, BUT THE RIGHT HEAD WEARS THE GOLD.</string>
+    <string name="ending_story_doubted_heir">YOU NAMED THE RIGHT HEIR ON THIN PROOF. THE COURT OBEYS, YET EVERY CORRIDOR CARRIES A RUMOUR THAT THE JESTER SIMPLY GUESSED WELL.</string>
+    <string name="ending_story_silent_council">THE COUNCIL WOULD NOT WAIT FOR YOU. THEY VOTED IN SILENCE, AND THE CHAMBER EMPTIED BEFORE THE LAST SEAL COOLED.</string>
+    <string name="ending_story_usurper_crowned">A STRANGER TAKES THE THRONE ON YOUR WORD. THE TRUE HEIR LEAVES BY THE SERVANTS DOOR AND THE JESTER BELLS ARE CUT FROM YOUR CAP.</string>
+
+    <string name="verdict_win">THE SEALED VERDICT: YOU WON THE COUNCIL.</string>
+    <string name="verdict_lose">THE SEALED VERDICT: NO LUCK - THE MASK KEPT ITS SECRET.</string>
+    <string name="verdict_reveal">THE TRUE HEIR WAS %1$s</string>
+    <string name="verdict_seal">CASE SEAL #%1$d</string>
+    <string name="gameover_stat_locks">CONTRADICTIONS</string>
+    <string name="gameover_stat_questions">QUESTIONS LEFT</string>
+    <string name="gameover_stat_confidence">CONFIDENCE</string>
+    <string name="gameover_no_record">THE CLERK RECORDED NOTHING</string>
+
+    <string name="rules_title">INSTRUCTIONS OF THE JESTER</string>
+    <string name="rule_title_1">SPEND A QUESTION</string>
+    <string name="rule_body_1">DEAL CLAIM turns one sealed testimony face up. Select a mask first to choose who speaks.</string>
+    <string name="rule_title_2">MARK THE SEALS</string>
+    <string name="rule_body_2">Tap a wax seal to cycle it: unmarked, marked true, marked false. Marks cost nothing.</string>
+    <string name="rule_title_3">LOCK A CONTRADICTION</string>
+    <string name="rule_body_3">Mark exactly two core claims, then LOCK PAIR. A real contradiction earns insight, a false one costs patience.</string>
+    <string name="rule_title_4">SEAL OF TRUTH</string>
+    <string name="rule_body_4">Three insight unmasks the selected courtier for certain and settles every claim they ever spoke.</string>
+    <string name="rule_title_5">NAME THE HEIR</string>
+    <string name="rule_body_5">ACCUSE before the questions run out. When they do, the council calls the vote without you.</string>
+    <string name="rules_footer">A MASKED COURTIER SPEAKS ONLY FALSEHOODS. AN UNMASKED ONE SPEAKS ONLY TRUTH.</string>
+
+    <string name="settings_title">COURT SETTINGS</string>
+    <string name="settings_confirm">CONFIRM ACCUSATION</string>
+    <string name="settings_confirm_hint">Require a second tap before the verdict</string>
+    <string name="settings_motion">CANDLE MOTION</string>
+    <string name="settings_motion_hint">Looping candle decor on the loader</string>
+    <string name="settings_masks">REVEAL MASK COLOURS</string>
+    <string name="settings_masks_hint">Tint medallions by the mask of the speaker</string>
+    <string name="settings_reset">RESET COURT RECORDS</string>
+    <string name="reset_title">RESET COURT RECORDS</string>
+    <string name="reset_body">The clerk will burn every record of your cases. This cannot be undone.</string>
+
+    <string name="pause_title">THE COURT WAITS</string>
+    <string name="pause_body">The candles hold their breath until you return.</string>
+    <string name="accuse_title">NAME THE TRUE HEIR</string>
+
+    <string name="seal_unmarked">unmarked</string>
+    <string name="seal_true">marked true</string>
+    <string name="seal_false">marked false</string>
+    <string name="state_selected">selected</string>
+    <string name="state_not_selected">not selected</string>
+    <string name="state_disabled">disabled</string>
+    <string name="state_ready">ready</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+    <string name="state_sealed">sealed</string>
+    <string name="state_open">open</string>
+
+    <string name="glyph_check">✓</string>
+    <string name="glyph_cross">✗</string>
+    <string name="glyph_star">★</string>
+    <string name="glyph_dot">·</string>
+
+    <string name="cd_menu">Return to the menu</string>
+    <string name="cd_pause">Pause the court</string>
+    <string name="cd_logo">The jester crest</string>
+    <string name="cd_courtier">Portrait of %1$s</string>
+</resources>
